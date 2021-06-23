@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\georg\source\repos\C++\Homework-SAA-GeorgiIvanov-20621545\Task1\Source.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Task1.vcxproj -> C:\Users\georg\source\repos\C++\Homework-SAA-GeorgiIvanov-20621545\Debug\Task1.exe
